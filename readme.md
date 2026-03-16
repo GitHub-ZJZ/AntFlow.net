@@ -71,7 +71,7 @@
 
 目前使用的典型企业包括中海油天津，中国工商银行浙江省分行、某知名快递公司等，[更多案例](https://gitee.com/tylerzhou/Antflow/issues/IC07CJ)
 
-> .net开始开发于2024年11月，目前正在公测中，以上案例都是java版本的，java版本的开源于2024年5月18日，java和刀net版共用同一套前端设计器
+> .net开始开发于2024年11月，目前正在公测中，以上案例都是java版本的，java版本的开源于2024年5月18日，java和.net版共用同一套前端设计器
 
 > 如果想要运行和线上demo一样的前端,请移步java版[gitee仓库](https://gitee.com/tylerzhou/Antflow) 克隆到本地以后,取出里面的**antflow-vue**项目运行
 
